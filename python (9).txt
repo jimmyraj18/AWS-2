@@ -1,0 +1,3 @@
+1. cd Speed_Detection
+
+2. python Speed_Detection.py
