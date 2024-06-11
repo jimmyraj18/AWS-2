@@ -1,6 +1,0 @@
-tensorflow==2.8
-tf-slim==1.1.0
-numpy
-Pillow
-opencv-python
-seaborn
